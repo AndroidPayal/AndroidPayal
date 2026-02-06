@@ -1,6 +1,6 @@
 ## Hi, I'm Payal 👋
 
-💻 Software Professional | React Native | Frontend | Android  
+💻 Software Professional | React Native | Android  
 🎓 Computer Science Graduate  
 👩‍🏫 Teaching + Industry Experience  
 🔁 Open to Tech & Non-Tech IT Roles
