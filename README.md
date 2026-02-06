@@ -1,23 +1,36 @@
 ## Hi, I'm Payal 👋
 
-React Native Developer with experience in building cross-platform mobile applications using JavaScript and React Native.  
-Also experienced in teaching computer science and explaining technical concepts clearly.
+💻 Software Professional | React Native | Frontend | Android  
+🎓 Computer Science Graduate  
+👩‍🏫 Teaching + Industry Experience  
+🔁 Open to Tech & Non-Tech IT Roles
 
-### 🔧 Skills
-- React Native
-- JavaScript
-- Mobile Application Development
-- HTML, CSS
-- Git & GitHub
-- Firebase (Basic)
+### 💡 About Me
+I have hands-on experience in mobile application development and teaching technical subjects.
+I enjoy building clean, user-focused applications and explaining complex concepts in simple ways.
 
-### 📱 Projects
-- React Native mobile applications with clean UI and API integration
-- Practice projects focusing on performance and reusability
+### 🛠️ Skills
+**Technical**
+- React Native, React (Basics)
+- JavaScript, HTML, CSS
+- Android, Java
+- Git, REST APIs, Firebase
 
-### 🌱 Currently Learning
-- Advanced React Native concepts
-- Better UI/UX practices
+**IT & Professional**
+- Technical Training & Mentoring
+- Documentation
+- QA & Testing Basics
+- Client / Student Coordination
 
-### 📫 Connect with me
-- LinkedIn: www.linkedin.com/in/payal-agrawal-681435130
+### 🚀 Highlighted Work
+- Mobile apps built using React Native & Android
+- Frontend practice projects
+- Teaching demo projects for students
+
+### 📌 Currently
+- Refreshing core skills
+- Improving existing projects
+- Open to IT opportunities (Tech / Non-Tech)
+
+🔗 **LinkedIn:** (add link)
+📫 **Email:** (optional)
