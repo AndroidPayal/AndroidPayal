@@ -1,36 +1,120 @@
-## Hi, I'm Payal 👋
+# Hi, I'm Payal 👋
 
-💻 Software Professional | React Native | Android  
-🎓 Computer Science Graduate  
-👩‍🏫 Teaching + Industry Experience  
-🔁 Open to Tech & Non-Tech IT Roles
+### Software Engineer | Full-Stack Developer | React / Next.js | React Native
 
-### 💡 About Me
-I have hands-on experience in mobile application development and teaching technical subjects.
-I enjoy building clean, user-focused applications and explaining complex concepts in simple ways.
+Computer Science graduate with professional software development experience and hands-on experience building and deploying full-stack applications.
 
-### 🛠️ Skills
-**Technical**
-- React Native, React (Basics)
-- JavaScript, HTML, CSS
-- Android, Java
-- Git, REST APIs, Firebase
+Currently focused on **React, Next.js, TypeScript, Node.js, MongoDB and React Native**, with an interest in building reliable, user-focused products.
 
-**IT & Professional**
-- Technical Training & Mentoring
-- Documentation
-- QA & Testing Basics
-- Client / Student Coordination
+---
 
-### 🚀 Highlighted Work
-- Mobile apps built using React Native & Android
-- Frontend practice projects
-- Teaching demo projects for students
+## 🚀 Featured Project
 
-### 📌 Currently
-- Refreshing core skills
-- Improving existing projects
-- Open to IT opportunities (Tech / Non-Tech)
+### SOZAN / NAZM — Full-Stack E-commerce Platform
 
-🔗 **LinkedIn:** (add link)
-📫 **Email:** (optional)
+A production-style fashion e-commerce application built and deployed with Next.js.
+
+**Tech Stack:**
+Next.js · React · TypeScript · Tailwind CSS · MongoDB · Mongoose · NextAuth · Razorpay · Vercel
+
+**Key Features:**
+
+* Customer authentication and protected routes
+* Role-based admin access
+* Product management
+* Search and product filtering
+* Cart and wishlist
+* Checkout and Razorpay payments
+* Order management
+* Inventory reservation and release
+* Idempotent checkout handling
+* Refund reconciliation
+* Responsive UI
+* Production deployment
+
+🔗 **[Live Demo](https://ai-clothing-store-seven.vercel.app/)**
+🔗 **[View Source Code](https://github.com/AndroidPayal/ai-clothing-store)**
+
+---
+
+## 🛠️ Technical Skills
+
+### Frontend
+
+* React
+* Next.js
+* React Native
+* JavaScript
+* TypeScript
+* HTML5
+* CSS
+* Tailwind CSS
+
+### Backend & Database
+
+* Node.js
+* REST APIs
+* MongoDB
+* Mongoose
+
+### Authentication & Payments
+
+* NextAuth
+* JWT
+* Razorpay
+
+### Tools & Deployment
+
+* Git
+* GitHub
+* Vercel
+* Android Studio
+
+---
+
+## 💼 Experience
+
+**Software Development**
+
+* Android application development
+* React Native application development
+* REST API integration
+* Mobile UI development
+
+**Teaching & Technical Training**
+
+* Computer science and application development subjects
+* Technical training and mentoring
+* Practical application of programming concepts
+
+---
+
+## 📚 Currently Focused On
+
+* Building production-ready applications with Next.js and React
+* Full-stack JavaScript development
+* React Native development
+* API design and integration
+* Database-driven applications
+* Writing maintainable and secure application code
+
+---
+
+## 🤝 Open To
+
+* React / Next.js Developer roles
+* Full-Stack Developer roles
+* React Native Developer roles
+* Software Developer opportunities
+* Remote development projects
+
+---
+
+## 📫 Connect With Me
+
+🔗 **GitHub:** https://github.com/AndroidPayal
+🔗 **LinkedIn:** www.linkedin.com/in/payal-agrawal-681435130
+
+---
+
+⭐ Thanks for visiting my profile!
